@@ -1,0 +1,4493 @@
+{
+  "Pages": [
+    {
+      "Title": "Statistical Table: Income ",
+      "Name": "https://stats.mom.gov.sg/Pages/IncomeTimeSeries.aspx",
+      "PageName": "IncomeTimeSeries",
+      "ReleaseDate": "/Date(1749522600000)/",
+      "iMAS_Keyword": "Gross Monthly Income From Work; Annual Wage Changes; Occupational Wages; basic wages; overtime pay",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Annual Wage Changes",
+        "Income",
+        "Wage Practices"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "End Monthly Unemployment Situation April 2025",
+      "Name": "https://stats.mom.gov.sg/Pages/End-Monthly-Unemployment-Situation-Apr25.aspx",
+      "PageName": "End-Monthly-Unemployment-Situation-Apr25",
+      "ReleaseDate": "/Date(1749522600000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design-03-cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2025",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Apr",
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Unemployment ",
+      "Name": "https://stats.mom.gov.sg/Pages/UnemploymentTimeSeries.aspx",
+      "PageName": "UnemploymentTimeSeries",
+      "ReleaseDate": "/Date(1749522000000)/",
+      "iMAS_Keyword": "Unemployment, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Income ",
+      "Name": "https://stats.mom.gov.sg/Pages/Income-Summary-Table.aspx",
+      "PageName": "Income-Summary-Table",
+      "ReleaseDate": "/Date(1748571600000)/",
+      "iMAS_Keyword": "income, nominal income, real income, Median Gross Monthly Income, GMI, Summary Table, Statistics, Singapore, Singapore Statistics, MRSD, Ministry of Manpower, basic wages, overtime pay, Singapore salaries, singapore salary, Household income singapore, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Annual Wage Changes",
+        "Income",
+        "Wage Practices"
+      ],
+      "Year": "2025",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2024.aspx",
+      "PageName": "Report-On-Wage-Practices-2024",
+      "ReleaseDate": "/Date(1748399400000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2024, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility",
+        "Wage Practices"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2024.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2024.pdf",
+          "AttachmentSize": "0.93 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Summary Table: Hours Worked ",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Summary-Table.aspx",
+      "PageName": "Hours-Worked-Summary-Table",
+      "ReleaseDate": "/Date(1747794600000)/",
+      "iMAS_Keyword": "Hours Worked, Paid Hours Worked, Usual Hours Worked",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Hours Worked ",
+      "Name": "https://stats.mom.gov.sg/Pages/HoursWorkedTimeSeries.aspx",
+      "PageName": "HoursWorkedTimeSeries",
+      "ReleaseDate": "/Date(1747794600000)/",
+      "iMAS_Keyword": "Hours Worked, data, Statistics, Singapore, Singapore Statistics, MRSD, Ministry of Manpower, Total Paid Hours, Paid Overtime Hours, Labour Market Survey, Manpower Research and Statistics Department",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Youth",
+      "Name": "https://stats.mom.gov.sg/Pages/Youth-Summary-Table.aspx",
+      "PageName": "Youth-Summary-Table",
+      "ReleaseDate": "/Date(1746498600000)/",
+      "iMAS_Keyword": "Youth; NEET",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Youth",
+        "Labour Force"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Labour Market Advance Release First Quarter 2025",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Advance-Release-1Q-2025.aspx",
+      "PageName": "Labour-Market-Advance-Release-1Q-2025",
+      "ReleaseDate": "/Date(1745807400000)/",
+      "iMAS_Keyword": "4Q24, Labour Market Advance Release Fourth Quarter 2024; Redundancy; Retrenchment;, employment, unemployment,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2002%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employment Situation",
+      "Topic": [
+        "Employment",
+        "Unemployment",
+        "Retrenchment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-LMAR-Q1-2025.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-LMAR-Q1-2025.pdf",
+          "AttachmentSize": "1.51 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Summary Table: Employment ",
+      "Name": "https://stats.mom.gov.sg/Pages/employment-Summary-Table.aspx",
+      "PageName": "employment-Summary-Table",
+      "ReleaseDate": "/Date(1745806800000)/",
+      "iMAS_Keyword": "Employment Change, Employment Level as at Year-end, Employment, Employment Level, Employment Statistics, Sector, Annual Employment Change, by Industry, Residential Status, Manpower Research & Statistics Department, MOM, Singapore, Statistics. mrsd",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Unemployment",
+      "Name": "https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.aspx",
+      "PageName": "Unemployment-Summary-Table",
+      "ReleaseDate": "/Date(1745806800000)/",
+      "iMAS_Keyword": "Unemployment, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, unemployment rate, unemployment rate in singapore, singapore unemployment rate",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Retrenchment",
+      "Name": "https://stats.mom.gov.sg/Pages/Retrenchment-Summary-Table.aspx",
+      "PageName": "Retrenchment-Summary-Table",
+      "ReleaseDate": "/Date(1745806800000)/",
+      "iMAS_Keyword": "Redundancy; Retrenchment; Retrenchment of Permanent Employees; Retrenchment of Term Contract Employees",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Retrenchment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Employment ",
+      "Name": "https://stats.mom.gov.sg/Pages/EmploymentTimeSeries.aspx",
+      "PageName": "EmploymentTimeSeries",
+      "ReleaseDate": "/Date(1745806800000)/",
+      "iMAS_Keyword": "Employment; ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2025",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "End Monthly Unemployment Situation February 2025",
+      "Name": "https://stats.mom.gov.sg/Pages/End-Monthly-Unemployment-Situation-Feb25.aspx",
+      "PageName": "End-Monthly-Unemployment-Situation-Feb25",
+      "ReleaseDate": "/Date(1743993000000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design-03-cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2025",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Feb",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "End-Monthly-Unemploymen-Situation-Feb25.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/End-Monthly-Unemploymen-Situation-Feb25.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Job Vacancies 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Job-Vacancies-2024.aspx",
+      "PageName": "Job-Vacancies-2024",
+      "ReleaseDate": "/Date(1743129000000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Job Vacancies",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Job Vacancy",
+      "Name": "https://stats.mom.gov.sg/Pages/JobVacancyTimeSeries.aspx",
+      "PageName": "JobVacancyTimeSeries",
+      "ReleaseDate": "/Date(1743128400000)/",
+      "iMAS_Keyword": "Job Vacancy",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Labour Market Fourth Quarter 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Report-4Q-2024.aspx",
+      "PageName": "Labour-Market-Report-4Q-2024",
+      "ReleaseDate": "/Date(1742351400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "Hours Worked",
+        "Labour Turnover",
+        "Job Vacancy",
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Market-Report4Q-2024.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Market-Report4Q-2024.pdf",
+          "AttachmentSize": "2.93 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Summary Table: Job Vacancy",
+      "Name": "https://stats.mom.gov.sg/Pages/Job-Vacancy-Summary-Table.aspx",
+      "PageName": "Job-Vacancy-Summary-Table",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Job Vacancy, manpower demand, helping job seekers, employers, Job Vacancies in singapore, Singapore Job Vacancy, occupation unemployed, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Labour Turnover",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Turnover-Summary-Table.aspx",
+      "PageName": "Labour-Turnover-Summary-Table",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Labour Turnover, Recruitment rates, resignation rates, tables, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Turnover"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Summary Table: Re-entry Into Employment",
+      "Name": "https://stats.mom.gov.sg/Pages/Re-entry-Into-Employment-Summary-Table.aspx",
+      "PageName": "Re-entry-Into-Employment-Summary-Table",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Re-entry Into Employment, Re-entry Rate, Labour Market, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, Rate of Re-entry into Employment of Retrenched Residents",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Re-entry Into Employment"
+      ],
+      "Year": "2024",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Labour Turnover",
+      "Name": "https://stats.mom.gov.sg/Pages/LabourTurnoverTimeSeries.aspx",
+      "PageName": "LabourTurnoverTimeSeries",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Labour Turnover, Recruitment rates, resignation rates, tables, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Turnover"
+      ],
+      "Year": "2024",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Retrenchment",
+      "Name": "https://stats.mom.gov.sg/Pages/RetrenchmentTimeSeries.aspx",
+      "PageName": "RetrenchmentTimeSeries",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Redundancy; Retrenchment;Redundancy; Retrenchment; Retrenchment of Permanent Employees; Retrenchment of Term Contract Employees, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Retrenchment"
+      ],
+      "Year": "2024",
+      "Quaterly": "2Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Re-entry Into Employment",
+      "Name": "https://stats.mom.gov.sg/Pages/ReEntryIntoEmploymentTimeSeries.aspx",
+      "PageName": "ReEntryIntoEmploymentTimeSeries",
+      "ReleaseDate": "/Date(1742350800000)/",
+      "iMAS_Keyword": "Re-entry Into Employment, Re-entry Rate, Labour Market, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, Rate of Re-entry into Employment of Retrenched Residents",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Re-entry Into Employment"
+      ],
+      "Year": "2024",
+      "Quaterly": "1Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "End Monthly Unemployment Situation January 2025",
+      "Name": "https://stats.mom.gov.sg/Pages/End-Monthly-Unemployment-Situation-Jan25.aspx",
+      "PageName": "End-Monthly-Unemployment-Situation-Jan25",
+      "ReleaseDate": "/Date(1741573800000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2025",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "End-Monthly-Unemploymen-Situation-Jan25.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/End-Monthly-Unemploymen-Situation-Jan25.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: ​Average (Mean) Monthly Earnings",
+      "Name": "https://stats.mom.gov.sg/Pages/Average-Mean-Monthly-Earnings-Tables.aspx",
+      "PageName": "Average-Mean-Monthly-Earnings-Tables",
+      "ReleaseDate": "/Date(1740709200000)/",
+      "iMAS_Keyword": "AME, Average mean monthly earnings, earnings in singaore, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Average (Mean) Monthly Earnings",
+        "Income"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Employer Supported Training",
+      "Name": "https://stats.mom.gov.sg/Pages/EmployerSupportedTrainingTimeSeries.aspx",
+      "PageName": "EmployerSupportedTrainingTimeSeries",
+      "ReleaseDate": "/Date(1740119400000)/",
+      "iMAS_Keyword": "Employer Supported Training",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Labour Force in Singapore 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2024.aspx",
+      "PageName": "Labour-Force-In-Singapore-2024",
+      "ReleaseDate": "/Date(1737944700000)/",
+      "iMAS_Keyword": "Labour Force In Singapore 2024",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd_2024LabourForce_Cover.png",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Force In Singapore",
+      "Topic": [
+        "Employment",
+        "Labour Force",
+        "Persons Outside The Labour Force",
+        "Training and Higher Education",
+        "Underemployment",
+        "Unemployment",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers",
+        "Income"
+      ],
+      "Year": "2025",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_2024Labourforce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_2024Labourforce.pdf",
+          "AttachmentSize": "10.43 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Summary Table: Labour Force ",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-Summary-Table.aspx",
+      "PageName": "Labour-Force-Summary-Table",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "Labour Force Participation, Table, LFPR, Labour Force Participation rate, Employment Rates, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Labour Force ",
+      "Name": "https://stats.mom.gov.sg/Pages/LabourForceTimeSeries.aspx",
+      "PageName": "LabourForceTimeSeries",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "Labour Force Participation, Table, LFPR, Labour Force Participation rate, Employment Rates, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Employment 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/employment-Tables2024.aspx",
+      "PageName": "employment-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Unemployment 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Unemployment-Tables2024.aspx",
+      "PageName": "Unemployment-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Labour Force 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/labour-force-tables2024.aspx",
+      "PageName": "labour-force-tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Persons Outside the Labour Force 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Persons-Outside-the-Labour-Force-Tables2024.aspx",
+      "PageName": "Persons-Outside-the-Labour-Force-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Gross Monthly Income From Employment 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Gross-Monthly-Income-Tables2024.aspx",
+      "PageName": "Gross-Monthly-Income-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Income"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Underemployment 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Underemployment-Tables2024.aspx",
+      "PageName": "Underemployment-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Hours Worked 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Tables2024.aspx",
+      "PageName": "Hours-Worked-Tables2024",
+      "ReleaseDate": "/Date(1737944400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Employment Outcomes Of Persons With Disabilities",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-Outcomes-of-Persons-With-Disabilities-TimeSeries.aspx",
+      "PageName": "Employment-Outcomes-of-Persons-With-Disabilities-TimeSeries",
+      "ReleaseDate": "/Date(1737944100000)/",
+      "iMAS_Keyword": "Residents with Disabilities Employment Rate, Distribution of Residents with Disabilities outside the Labour Force, Disabled, disabilitiy",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "End Monthly Unemployment Situation November 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/End-Monthly-Unemployment-Situation-Nov24.aspx",
+      "PageName": "End-Monthly-Unemployment-Situation-Nov24",
+      "ReleaseDate": "/Date(1735871400000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Nov",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "End-Monthly-Unemployment-Situation-Nov24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/End-Monthly-Unemployment-Situation-Nov24.pdf",
+          "AttachmentSize": "0.67 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Statistical Table: Employees' Working Conditions",
+      "Name": "https://stats.mom.gov.sg/Pages/Employees-Working-Conditions.aspx",
+      "PageName": "Employees-Working-Conditions",
+      "ReleaseDate": "/Date(1734057000000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Labour Market Third Quarter 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Report-3Q-2024.aspx",
+      "PageName": "Labour-Market-Report-3Q-2024",
+      "ReleaseDate": "/Date(1733711400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "Hours Worked",
+        "Labour Turnover",
+        "Job Vacancy",
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": "3Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Market-Report-3Q-2024.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Market-Report-3Q-2024.pdf",
+          "AttachmentSize": "3.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Wage Practices for Lower-wage Employees 2023 and Forward Expectations of Establishments",
+      "Name": "https://stats.mom.gov.sg/Pages/Wage-Practices-for-Lower-wage-Employees-2023-and-Forward-Expectations-of-Establishments.aspx",
+      "PageName": "Wage-Practices-for-Lower-wage-Employees-2023-and-Forward-Expectations-of-Establishments",
+      "ReleaseDate": "/Date(1728541800000)/",
+      "iMAS_Keyword": "Wage Practices for Lower-wage Emp, Annual Wage Changes, Wage Flexibility, Wage change, wage practices, wage flexibility, wage increase, Singapore, lower wage employees, MRSD, Manpower Research and Statistics Depart, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Wage Practices for Lower-wage Employees",
+      "Topic": [
+        "Wage Flexibility",
+        "Annual Wage Changes"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Wage-Practices-for-Lower-wage-Employees-2023-and-Forward-Expectations-of-Establishments.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Wage-Practices-for-Lower-wage-Employees-2023-and-Forward-Expectations-of-Establishments.pdf",
+          "AttachmentSize": "0.62 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation August 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Aug24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Aug24",
+      "ReleaseDate": "/Date(1728009000000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Oct",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Aug24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Aug24.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Fair Employment Practices 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Fair-Employment-Practices-2023.aspx",
+      "PageName": "Fair-Employment-Practices-2023",
+      "ReleaseDate": "/Date(1727157600000)/",
+      "iMAS_Keyword": "Fair Employment Practices 2023",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Fair Employment Practices",
+      "Topic": [
+        "Employment",
+        "Fair Employment Practices"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Fair-Employment-Practices-Report-2023.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Fair-Employment-Practices-Report-2023.pdf",
+          "AttachmentSize": "0.29 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Market Second Quarter 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Report-2Q-2024.aspx",
+      "PageName": "Labour-Market-Report-2Q-2024",
+      "ReleaseDate": "/Date(1726540200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "Hours Worked",
+        "Labour Turnover",
+        "Job Vacancy",
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": "2Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Market-Report-2Q-2024.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Market-Report-2Q-2024.pdf",
+          "AttachmentSize": "3.21 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation July 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Jul24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Jul24",
+      "ReleaseDate": "/Date(1725503400000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Sep",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-jul24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-jul24.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Statistical Table: Employment Conditions",
+      "Name": "https://stats.mom.gov.sg/Pages/EmploymentConditionsTimeSeries.aspx",
+      "PageName": "EmploymentConditionsTimeSeries",
+      "ReleaseDate": "/Date(1722824700000)/",
+      "iMAS_Keyword": "Employment Conditions; Conditions of employment;",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Monthly Unemployment Situation May 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-May24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-May24",
+      "ReleaseDate": "/Date(1720146600000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jul",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-May24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-May24.pdf",
+          "AttachmentSize": "0.24 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Training And Higher Education",
+      "Name": "https://stats.mom.gov.sg/Pages/Training-and-Higher-Education-Tables.aspx",
+      "PageName": "Training-and-Higher-Education-Tables",
+      "ReleaseDate": "/Date(1719541800000)/",
+      "iMAS_Keyword": "Training and Higher Education, Table, data, Statistics, Singapore, Singapore Statistics, MRSD, Ministry of Manpower",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Training and Higher Education",
+        "Graduate Starting Salary"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: ​​Labour Relations",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Relations-Tables.aspx",
+      "PageName": "Labour-Relations-Tables",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Relations"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: ​Labour Productivity",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Productivity-Tables.aspx",
+      "PageName": "Labour-Productivity-Tables",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Productivity"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: ​Workplace Safety And Health",
+      "Name": "https://stats.mom.gov.sg/Pages/Workplace-Safety-and-Health-Tables.aspx",
+      "PageName": "Workplace-Safety-and-Health-Tables",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Workplace Safety and Health"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: ​Social Security",
+      "Name": "https://stats.mom.gov.sg/Pages/Social-Security-Tables.aspx",
+      "PageName": "Social-Security-Tables",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Social Security"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: ​Employment Service",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-Service-Tables.aspx",
+      "PageName": "Employment-Service-Tables",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "Employment Service, NTUC, WSG, Workforce Singapore, Singapore Citizen, National Trades Union Congress, Singapore NTUC, Singapore WSG",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment Service"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Occupational Wages 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Occupational-Wages-Tables2023.aspx",
+      "PageName": "Occupational-Wages-Tables2023",
+      "ReleaseDate": "/Date(1719541500000)/",
+      "iMAS_Keyword": "Occupational Wages 2023",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Occupational Wages",
+        "Income"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2023.aspx",
+      "PageName": "Report-On-Wage-Practices-2023",
+      "ReleaseDate": "/Date(1719282600000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2022, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility",
+        "Wage Practices"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2023.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2023.pdf",
+          "AttachmentSize": "1.86 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Market First Quarter 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Report-1Q-2024.aspx",
+      "PageName": "Labour-Market-Report-1Q-2024",
+      "ReleaseDate": "/Date(1718850600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "General Labour Market",
+        "Hours Worked",
+        "Labour Turnover",
+        "Job Vacancy",
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": "1Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Market-Report-1Q-2024.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Market-Report-1Q-2024.pdf",
+          "AttachmentSize": "3.54 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation April 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Apr24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Apr24",
+      "ReleaseDate": "/Date(1717727400000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jun",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Apr24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Apr24.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Statistical Table: Labour Cost",
+      "Name": "https://stats.mom.gov.sg/Pages/LabourCostTimeSeries.aspx",
+      "PageName": "LabourCostTimeSeries",
+      "ReleaseDate": "/Date(1713925800000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Cost"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Statistical Table: Medical Benefits",
+      "Name": "https://stats.mom.gov.sg/Pages/MedicalBenefitsTimeSeries.aspx",
+      "PageName": "MedicalBenefitsTimeSeries",
+      "ReleaseDate": "/Date(1713753000000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Medical Benefits"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Monthly Unemployment Situation February 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Feb24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Feb24",
+      "ReleaseDate": "/Date(1712284200000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Apr",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Feb24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Feb24.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Job Vacancies 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Job-Vacancies-2023.aspx",
+      "PageName": "Job-Vacancies-2023",
+      "ReleaseDate": "/Date(1711333800000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Job Vacancies",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_JV2023.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_JV2023.pdf",
+          "AttachmentSize": "0.49 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Market Fourth Quarter 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Market-Report-4Q-2023.aspx",
+      "PageName": "Labour-Market-Report-4Q-2023",
+      "ReleaseDate": "/Date(1710383400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Quarterly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "General Labour Market",
+        "Hours Worked",
+        "Labour Turnover",
+        "Job Vacancy",
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": "4Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Market-Report-4Q-2023.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Market-Report-4Q-2023.pdf",
+          "AttachmentSize": "3.60 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation January 2024",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Jan24.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Jan24",
+      "ReleaseDate": "/Date(1709865000000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Mar",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Jan24.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Jan24.pdf",
+          "AttachmentSize": "0.24 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Labour Force in Singapore 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2023.aspx",
+      "PageName": "Labour-Force-In-Singapore-2023",
+      "ReleaseDate": "/Date(1706667900000)/",
+      "iMAS_Keyword": "Labour Force In Singapore 2022",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd_2023LabourForce_Cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Force In Singapore",
+      "Topic": [
+        "Employment",
+        "Labour Force",
+        "Persons Outside The Labour Force",
+        "Training and Higher Education",
+        "Underemployment",
+        "Unemployment",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers",
+        "Income"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_2023LabourForce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_2023LabourForce.pdf",
+          "AttachmentSize": "10.55 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Employment 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/employment-Tables2023.aspx",
+      "PageName": "employment-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Unemployment 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Unemployment-Tables2023.aspx",
+      "PageName": "Unemployment-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Labour Force 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/labour-force-tables2023.aspx",
+      "PageName": "labour-force-tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Persons Outside the Labour Force 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Persons-Outside-the-Labour-Force-Tables2023.aspx",
+      "PageName": "Persons-Outside-the-Labour-Force-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Gross Monthly Income From Employment 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Gross-Monthly-Income-Tables2023.aspx",
+      "PageName": "Gross-Monthly-Income-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Income"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Underemployment 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Underemployment-Tables2023.aspx",
+      "PageName": "Underemployment-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Hours Worked 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Tables2023.aspx",
+      "PageName": "Hours-Worked-Tables2023",
+      "ReleaseDate": "/Date(1706667600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Development of Labour Market Indicators – From Inception to International Endorsement",
+      "Name": "https://stats.mom.gov.sg/Pages/Development-of-Labour-Market-Indicators-From-Inception-to-International-Endorsement.aspx",
+      "PageName": "Development-of-Labour-Market-Indicators-From-Inception-to-International-Endorsement",
+      "ReleaseDate": "/Date(1706495100000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Feature",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Development-Of-Labour-Market-Indicators.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Development-Of-Labour-Market-Indicators.pdf",
+          "AttachmentSize": "0.42 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employer Supported Training 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Employer-Supported-Training-2022.aspx",
+      "PageName": "Employer-Supported-Training-2022",
+      "ReleaseDate": "/Date(1705631400000)/",
+      "iMAS_Keyword": "Training And Higher Education",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employer Supported Training",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Employer-Supported-Training-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Employer-Supported-Training-2022.pdf",
+          "AttachmentSize": "0.31 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Prevalence of Work-Life Harmony Initiatives in Singapore 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Prevalence-of-Work-Life-Harmony-Initiatives-in-Singapore-2022.aspx",
+      "PageName": "Prevalence-of-Work-Life-Harmony-Initiatives-in-Singapore-2022",
+      "ReleaseDate": "/Date(1704443400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employees' Working Conditions",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Prevalence-of-Work-Life-Harmony-Initiatives-in-Singapore-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Prevalence-of-Work-Life-Harmony-Initiatives-in-Singapore-2022.pdf",
+          "AttachmentSize": "0.15 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation November 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-nov23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-nov23",
+      "ReleaseDate": "/Date(1704421800000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2024",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-nov23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-nov23.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation October 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-oct23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-oct23",
+      "ReleaseDate": "/Date(1701916200000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Dec",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Oct23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Oct23.pdf",
+          "AttachmentSize": "0.24 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Statistical Table: Fair Employment Practices",
+      "Name": "https://stats.mom.gov.sg/Pages/FairEmploymentPracticesTimeSeries.aspx",
+      "PageName": "FairEmploymentPracticesTimeSeries",
+      "ReleaseDate": "/Date(1700015400000)/",
+      "iMAS_Keyword": "Fair Employment Practices, tables, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Fair Employment Practices"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Wage Practices for Lower-wage Employees 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Wage-Practices-for-Lower-wage-Employees-2022.aspx",
+      "PageName": "Wage-Practices-for-Lower-wage-Employees-2022",
+      "ReleaseDate": "/Date(1698719400000)/",
+      "iMAS_Keyword": "Wage Practices for Lower-wage Emp, Annual Wage Changes, Wage Flexibility, Wage change, wage practices, wage flexibility, wage increase, Singapore, lower wage employees, MRSD, Manpower Research and Statistics Depart, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Wage Practices for Lower-wage Employees",
+      "Topic": [
+        "Wage Flexibility",
+        "Annual Wage Changes"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Wage-Practices-for-Lower-wage-Employees-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Wage-Practices-for-Lower-wage-Employees-2022.pdf",
+          "AttachmentSize": "0.89 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation August 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-aug23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-aug23",
+      "ReleaseDate": "/Date(1696559400000)/",
+      "iMAS_Keyword": "Unemployment rate; Labour Market;  Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Oct",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-aug23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-aug23.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation July 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Jul23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Jul23",
+      "ReleaseDate": "/Date(1694140200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Sep",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-jul23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-jul23.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Fair Employment Practices 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Fair-Employment-Practices-2022.aspx",
+      "PageName": "Fair-Employment-Practices-2022",
+      "ReleaseDate": "/Date(1690770600000)/",
+      "iMAS_Keyword": "Fair Employment Practices 2021",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Fair Employment Practices",
+      "Topic": [
+        "Employment",
+        "Fair Employment Practices"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Fair-Employment-Practices-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Fair-Employment-Practices-2022.pdf",
+          "AttachmentSize": "0.76 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation May 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-May23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-May23",
+      "ReleaseDate": "/Date(1688524200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jul",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-may23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-may23.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation April 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Apr23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Apr23",
+      "ReleaseDate": "/Date(1686105000000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jun",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Apr23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Apr23.pdf",
+          "AttachmentSize": "0.25 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2022.aspx",
+      "PageName": "Report-On-Wage-Practices-2022",
+      "ReleaseDate": "/Date(1685327400000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2022, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility",
+        "Wage Practices"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2022.pdf",
+          "AttachmentSize": "1.74 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Conditions Of Employment 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Conditions-Of-Employment-2022.aspx",
+      "PageName": "Conditions-Of-Employment-2022",
+      "ReleaseDate": "/Date(1683772200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Conditions Of Employment",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-coe-2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-coe-2022.pdf",
+          "AttachmentSize": "1.22 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation February 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Feb23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Feb23",
+      "ReleaseDate": "/Date(1680748200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Apr",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-feb23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-feb23.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Job Vacancies 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Job-Vacancies-2022.aspx",
+      "PageName": "Job-Vacancies-2022",
+      "ReleaseDate": "/Date(1680143400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Job Vacancies",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_JV2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_JV2022.pdf",
+          "AttachmentSize": "0.98 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation January 2023",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Jan23.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Jan23",
+      "ReleaseDate": "/Date(1678069800000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-jan23.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-jan23.pdf",
+          "AttachmentSize": "0.63 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Labour Force in Singapore 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2022.aspx",
+      "PageName": "Labour-Force-In-Singapore-2022",
+      "ReleaseDate": "/Date(1675132200000)/",
+      "iMAS_Keyword": "Labour Force In Singapore 2022",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LFR-2022-150x188.png",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Force In Singapore",
+      "Topic": [
+        "Employment",
+        "Labour Force",
+        "Persons Outside The Labour Force",
+        "Training and Higher Education",
+        "Underemployment",
+        "Unemployment",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers",
+        "Income"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_2022LabourForce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_2022LabourForce.pdf",
+          "AttachmentSize": "3.15 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Employment 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/employment-Tables2022.aspx",
+      "PageName": "employment-Tables2022",
+      "ReleaseDate": "/Date(1675132200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Unemployment 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Unemployment-Tables2022.aspx",
+      "PageName": "Unemployment-Tables2022",
+      "ReleaseDate": "/Date(1675132200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Labour Force 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/labour-force-tables2022.aspx",
+      "PageName": "labour-force-tables2022",
+      "ReleaseDate": "/Date(1675132200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Persons Outside the Labour Force 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Persons-Outside-the-Labour-Force-Tables2022.aspx",
+      "PageName": "Persons-Outside-the-Labour-Force-Tables2022",
+      "ReleaseDate": "/Date(1675132200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Gross Monthly Income From Employment 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Gross-Monthly-Income-Tables2022.aspx",
+      "PageName": "Gross-Monthly-Income-Tables2022",
+      "ReleaseDate": "/Date(1675131600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Income"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Underemployment 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Underemployment-Tables2022.aspx",
+      "PageName": "Underemployment-Tables2022",
+      "ReleaseDate": "/Date(1675131600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Hours Worked 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Tables2022.aspx",
+      "PageName": "Hours-Worked-Tables2022",
+      "ReleaseDate": "/Date(1675131600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2023",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Monthly Unemployment Situation November 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Nov22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Nov22",
+      "ReleaseDate": "/Date(1673231400000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Nov",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-nov22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-nov22.pdf",
+          "AttachmentSize": "0.27 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation October 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Oct22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Oct22",
+      "ReleaseDate": "/Date(1670380200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Oct",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-Oct22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-Oct22.pdf",
+          "AttachmentSize": "0.27 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Wage Practices for Lower-wage Employees 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Wage-Practices-for-Lower-wage-Employees-2021.aspx",
+      "PageName": "Wage-Practices-for-Lower-wage-Employees-2021",
+      "ReleaseDate": "/Date(1668393000000)/",
+      "iMAS_Keyword": "Wage Practices for Lower-wage Emp, Annual Wage Changes, Wage Flexibility, Wage change, wage practices, wage flexibility, wage increase, Singapore, lower wage employees, MRSD, Manpower Research and Statistics Depart, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Wage Practices for Lower-wage Employees",
+      "Topic": [
+        "Wage Flexibility",
+        "Annual Wage Changes"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Nov",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Wage-practices-for-lower-wage employees-2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Wage-practices-for-lower-wage%20employees-2021.pdf",
+          "AttachmentSize": "0.87 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation August 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Aug22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Aug22",
+      "ReleaseDate": "/Date(1665109800000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Aug",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-aug22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-aug22.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation July 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Jul22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Jul22",
+      "ReleaseDate": "/Date(1662690600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jul",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-jul22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-jul22.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation May 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-May22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-May22",
+      "ReleaseDate": "/Date(1657161000000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "May",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-may22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-may22.pdf",
+          "AttachmentSize": "0.27 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Manpower Statistics In Brief 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Manpower-Statistics-In-Brief-2022.aspx",
+      "PageName": "Manpower-Statistics-In-Brief-2022",
+      "ReleaseDate": "/Date(1655778600000)/",
+      "iMAS_Keyword": "Singapore Manpower Stats in brief, Manpower Statistics, Brief statistics, manpower statistics in brief, Singapore statistics, Statistics in brief singapore, 2022",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/mrsd-msib-2022-thumbnail.png",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd-msib-2022-cover.png",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Manpower Statistics In Brief",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-msib2022.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-msib2022.pdf",
+          "AttachmentSize": "0.36 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation April 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-apr22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-apr22",
+      "ReleaseDate": "/Date(1654482600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Apr",
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2021.aspx",
+      "PageName": "Report-On-Wage-Practices-2021",
+      "ReleaseDate": "/Date(1653877800000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2021, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Wage Flexibility",
+        "Annual Wage Changes"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2021.pdf",
+          "AttachmentSize": "1.04 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation February 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-feb22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-feb22",
+      "ReleaseDate": "/Date(1649298600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Feb",
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Job Vacancies 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Job-Vacancies-2021.aspx",
+      "PageName": "Job-Vacancies-2021",
+      "ReleaseDate": "/Date(1648780200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Job Vacancies",
+      "Topic": [
+        "Job Vacancy"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_JV2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_JV2021.pdf",
+          "AttachmentSize": "1.03 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Fair Employment Practices 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Fair-Employment-Practices-2021.aspx",
+      "PageName": "Fair-Employment-Practices-2021",
+      "ReleaseDate": "/Date(1648017000000)/",
+      "iMAS_Keyword": "Fair Employment Practices 2021",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Fair Employment Practices",
+      "Topic": [
+        "Employment",
+        "Fair Employment Practices"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Mar",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Fair-Employment-Practices-2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Fair-Employment-Practices-2021.pdf",
+          "AttachmentSize": "0.21 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Hours Worked 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Tables2021.aspx",
+      "PageName": "Hours-Worked-Tables2021",
+      "ReleaseDate": "/Date(1647224400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Unemployment 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Unemployment-Tables2021.aspx",
+      "PageName": "Unemployment-Tables2021",
+      "ReleaseDate": "/Date(1647224400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Employment 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/employment-Tables2021.aspx",
+      "PageName": "employment-Tables2021",
+      "ReleaseDate": "/Date(1647224400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2021",
+      "Quaterly": "4Q",
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation January 2022",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-jan22.aspx",
+      "PageName": "Monthly-Unemployment-Situation-jan22",
+      "ReleaseDate": "/Date(1646706600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Unemployment; report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2022",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-January22.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-January22.pdf",
+          "AttachmentSize": "0.21 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Force In Singapore 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2021.aspx",
+      "PageName": "Labour-Force-In-Singapore-2021",
+      "ReleaseDate": "/Date(1643336700000)/",
+      "iMAS_Keyword": "Labour Force In Singapore 2021",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd_LFR2021-cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Force In Singapore",
+      "Topic": [
+        "Employment",
+        "Labour Force",
+        "Persons Outside The Labour Force",
+        "Training and Higher Education",
+        "Underemployment",
+        "Unemployment",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_2021LabourForce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_2021LabourForce.pdf",
+          "AttachmentSize": "17.55 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Employment Table(s) - Labour Force In Singapore 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-in-Singapore-2021-Employment.aspx",
+      "PageName": "Labour-Force-in-Singapore-2021-Employment",
+      "ReleaseDate": "/Date(1643336700000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Unemployment Table(s) - Labour Force In Singapore 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-in-Singapore-2021-Unemployment.aspx",
+      "PageName": "Labour-Force-in-Singapore-2021-Unemployment",
+      "ReleaseDate": "/Date(1643336700000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Persons Outside the Labour Force Table(s) - Labour Force In Singapore 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-in-Singapore-2021-Persons-Outside-the-Labour-Force.aspx",
+      "PageName": "Labour-Force-in-Singapore-2021-Persons-Outside-the-Labour-Force",
+      "ReleaseDate": "/Date(1643336700000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Gross Monthly Income From Employment 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Gross-Monthly-Income-Tables2021.aspx",
+      "PageName": "Gross-Monthly-Income-Tables2021",
+      "ReleaseDate": "/Date(1643336400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Income"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Persons Outside the Labour Force 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Persons-Outside-the-Labour-Force-Tables2021.aspx",
+      "PageName": "Persons-Outside-the-Labour-Force-Tables2021",
+      "ReleaseDate": "/Date(1643336400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Underemployment 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Underemployment-Tables2021.aspx",
+      "PageName": "Underemployment-Tables2021",
+      "ReleaseDate": "/Date(1643336400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Labour Force 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-Tables2021.aspx",
+      "PageName": "Labour-Force-Tables2021",
+      "ReleaseDate": "/Date(1643336400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation November 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Nov21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Nov21",
+      "ReleaseDate": "/Date(1641436200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Nov",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-november2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-november2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation October 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Oct21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Oct21",
+      "ReleaseDate": "/Date(1638325800000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Oct",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-october2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-october2021.pdf",
+          "AttachmentSize": "0.22 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation August 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Aug21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Aug21",
+      "ReleaseDate": "/Date(1633660200000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Aug",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-august2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-august2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation July 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-July2021.aspx",
+      "PageName": "Monthly-Unemployment-Situation-July2021",
+      "ReleaseDate": "/Date(1630895400000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jul",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-july21.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-july21.pdf",
+          "AttachmentSize": "0.09 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation May 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-May21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-May21",
+      "ReleaseDate": "/Date(1625106600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "May",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-may2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-may2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Employment 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-Tables2020.aspx",
+      "PageName": "Employment-Tables2020",
+      "ReleaseDate": "/Date(1625020200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: General Labour Market 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/General-Labour-Market-Tables2020.aspx",
+      "PageName": "General-Labour-Market-Tables2020",
+      "ReleaseDate": "/Date(1625020200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Manpower Statistics In Brief 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Manpower-Statistics-In-Brief-2021.aspx",
+      "PageName": "Manpower-Statistics-In-Brief-2021",
+      "ReleaseDate": "/Date(1624329000000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/mrsd-msib-2021-thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd-msib-2021-cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Manpower Statistics In Brief",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-msib2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-msib2021.pdf",
+          "AttachmentSize": "0.38 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation April 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Apr21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Apr21",
+      "ReleaseDate": "/Date(1622687400000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Monthly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Apr",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-april2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-april2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Annual Wage Changes 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Annual-Wage-Changes-Tables2020.aspx",
+      "PageName": "Annual-Wage-Changes-Tables2020",
+      "ReleaseDate": "/Date(1622428200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Annual Wage Changes"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2020.aspx",
+      "PageName": "Report-On-Wage-Practices-2020",
+      "ReleaseDate": "/Date(1622428200000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2020, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2020.pdf",
+          "AttachmentSize": "1.21 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation February 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Feb21.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Feb21",
+      "ReleaseDate": "/Date(1617762600000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Feb",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-february2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-february2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Monthly Unemployment Situation – January 2021",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-January2021.aspx",
+      "PageName": "Monthly-Unemployment-Situation-January2021",
+      "ReleaseDate": "/Date(1614738600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2021",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Jan",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-january2021.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-january2021.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Conditions Of Employment 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Conditions-Of-Employment-2020.aspx",
+      "PageName": "Conditions-Of-Employment-2020",
+      "ReleaseDate": "/Date(1614733200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Conditions Of Employment",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "msd-coe-2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/msd-coe-2020.pdf",
+          "AttachmentSize": "1.89 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Force In Singapore 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2020.aspx",
+      "PageName": "Labour-Force-In-Singapore-2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "Labour Force In Singapore 2019",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/mrsd_LFR2020_Thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd_LFR2020-Cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Force In Singapore",
+      "Topic": [
+        "Employment",
+        "Labour Force",
+        "Persons Outside The Labour Force",
+        "Training and Higher Education",
+        "Unemployment",
+        "Underemployment",
+        "Hours Worked",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_2020LabourfForce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_2020LabourfForce.pdf",
+          "AttachmentSize": "20.34 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Labour Force 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Force-Tables2020.aspx",
+      "PageName": "Labour-Force-Tables2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Force"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Underemployment 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Underemployment-Tables2020.aspx",
+      "PageName": "Underemployment-Tables2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Underemployment"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Persons Outside the Labour Force 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Persons-Outside-the-Labour-Force-Tables2020.aspx",
+      "PageName": "Persons-Outside-the-Labour-Force-Tables2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Persons Outside The Labour Force"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Hours Worked 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Hours-Worked-Tables2020.aspx",
+      "PageName": "Hours-Worked-Tables2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Hours Worked"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: Gross Monthly Income From Employment 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Gross-Monthly-Income-Tables2020.aspx",
+      "PageName": "Gross-Monthly-Income-Tables2020",
+      "ReleaseDate": "/Date(1611799200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Gross Monthly Income From Employment",
+        "Income"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation November 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Nov20.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Nov20",
+      "ReleaseDate": "/Date(1610092800000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Nov",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-november-2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-november-2020.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation October 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Oct20.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Oct20",
+      "ReleaseDate": "/Date(1606962300000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Oct",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "monthly-unemployment-situation-october-2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/monthly-unemployment-situation-october-2020.pdf",
+          "AttachmentSize": "0.18 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Monthly Unemployment Situation August 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Monthly-Unemployment-Situation-Aug20.aspx",
+      "PageName": "Monthly-Unemployment-Situation-Aug20",
+      "ReleaseDate": "/Date(1602045000000)/",
+      "iMAS_Keyword": "Labour Market; Redundancy; Retrenchment; Employment; Unemployment; Hours Worked; Labour Turnover; Re-entry into employment, report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/design%2002%20thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Unemployment Situation",
+      "Topic": [
+        "Employment",
+        "Unemployment",
+        "Retrenchment"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": "Aug",
+      "AttachmentColl": [
+        {
+          "AttachmentName": "Monthly-Unemployment-Situation-August-2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/Monthly-Unemployment-Situation-August-2020.pdf",
+          "AttachmentSize": "0.07 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Singapore's Adjusted Gender Pay Gap",
+      "Name": "https://stats.mom.gov.sg/Pages/Singapores-Adjusted-Gender-Pay-Gap.aspx",
+      "PageName": "Singapores-Adjusted-Gender-Pay-Gap",
+      "ReleaseDate": "/Date(1598950800000)/",
+      "iMAS_Keyword": "Income, pay gap, gender, inequality, occupational segregation, women ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Gender Pay Gap",
+      "Topic": [
+        "Income",
+        "Gross Monthly Income From Employment",
+        "Labour Force",
+        "General Labour Market"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Singapores-Adjusted-Gender-Pay-Gap.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Singapores-Adjusted-Gender-Pay-Gap.pdf",
+          "AttachmentSize": "1.98 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Table: Annual Wage Changes 2019",
+      "Name": "https://stats.mom.gov.sg/Pages/Annual-Wage-Changes-Tables2019.aspx",
+      "PageName": "Annual-Wage-Changes-Tables2019",
+      "ReleaseDate": "/Date(1595815200000)/",
+      "iMAS_Keyword": "Occupational Wages 2019",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Annual Wage Changes"
+      ],
+      "Year": "2019",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Table: General Labour Market 2019",
+      "Name": "https://stats.mom.gov.sg/Pages/General-Labour-Market-Tables2019.aspx",
+      "PageName": "General-Labour-Market-Tables2019",
+      "ReleaseDate": "/Date(1593482400000)/",
+      "iMAS_Keyword": "General labour market, Table, data, Statistics, Singapore, Singapore Statistics, MRSD, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Tables/tile-table1.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Tables",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Manpower Statistics In Brief 2020",
+      "Name": "https://stats.mom.gov.sg/Pages/Manpower-Statistics-In-Brief-2020.aspx",
+      "PageName": "Manpower-Statistics-In-Brief-2020",
+      "ReleaseDate": "/Date(1593136800000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/mrsd-msib-2020-thumbnail.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/mrsd-msib-2020-cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Manpower Statistics In Brief",
+      "Topic": [
+        "General Labour Market"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-msib2020.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-msib2020.pdf",
+          "AttachmentSize": "0.49 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Retrenchment and Re-entry into Employment 2019",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Retrenchment-and-Re-entry-into-Employment-2019.aspx",
+      "PageName": "Extract-Retrenchment-and-Re-entry-into-Employment-2019",
+      "ReleaseDate": "/Date(1583978400000)/",
+      "iMAS_Keyword": "Feature: Retrenchment and Re-entry into Employment 2019; Redundancy;  Retrenchment; Extract",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_key%20findings_3.png",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Retrenchment and Re-entry into Employment",
+      "Topic": [
+        "Re-entry Into Employment",
+        "Retrenchment"
+      ],
+      "Year": "2019",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-retrenchment-and-re-entry-into-employment-2019-lmr4q.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-retrenchment-and-re-entry-into-employment-2019-lmr4q.pdf",
+          "AttachmentSize": "0.24 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Singapore Citizens in the Labour Force",
+      "Name": "https://stats.mom.gov.sg/Pages/Singapore-Citizens-in-the-Labour-Force.aspx",
+      "PageName": "Singapore-Citizens-in-the-Labour-Force",
+      "ReleaseDate": "/Date(1579752000000)/",
+      "iMAS_Keyword": "Singapore Citizens, Singaporeans, Residents, Employment; Unemployment; Labour Force; Gross Monthly Income From Work; Income; Occupation; PMET; Discouraged Workers; Retrenchment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Singaporeans In The Workforce",
+      "Topic": [
+        "Employment",
+        "Unemployment",
+        "Labour Force",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers",
+        "Retrenchment"
+      ],
+      "Year": "2020",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Singapore-Citizens-in-the-Labour-Force.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Singapore-Citizens-in-the-Labour-Force.pdf",
+          "AttachmentSize": "2.81 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Employment Change, Unemployment and Retrenchment",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Employment-Change-Unemployment-and-Retrenchment.aspx",
+      "PageName": "Extract-Employment-Change-Unemployment-and-Retrenchment",
+      "ReleaseDate": "/Date(1576116000000)/",
+      "iMAS_Keyword": "Extract: Employment Change Unemployment and Retrenchment, Extract, Employment Change, Unemployment, Retrenchment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Employment-change-Unemployment-Retrenchment.jpg",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "General Labour Market",
+        "Employment",
+        "Unemployment",
+        "Retrenchment"
+      ],
+      "Year": "2019",
+      "Quaterly": "3Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Extract: Short Work-Week & Temporary Layoff",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Short-Work-Week-and-Temporary-Layoff.aspx",
+      "PageName": "Extract-Short-Work-Week-and-Temporary-Layoff",
+      "ReleaseDate": "/Date(1568253600000)/",
+      "iMAS_Keyword": "Extract: Short Work-Week and Temporary Layoff, Extract, Short Work Week, Temporary Layoff,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_technicalnote_Shortworkweekandtemplayoff.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "General Labour Market",
+        "Hours Worked",
+        "Retrenchment"
+      ],
+      "Year": "2019",
+      "Quaterly": "2Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Extract: Labour Turnover",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Labour-Turnover.aspx",
+      "PageName": "Extract-Labour-Turnover",
+      "ReleaseDate": "/Date(1560405900000)/",
+      "iMAS_Keyword": "Labour Market, Labour Turnover",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_labourturnover.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Labour Turnover",
+        "General Labour Market"
+      ],
+      "Year": "2019",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2018",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2018.aspx",
+      "PageName": "Report-On-Wage-Practices-2018",
+      "ReleaseDate": "/Date(1559095200000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2018, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2018.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2018.pdf",
+          "AttachmentSize": "1.99 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Retrenchment and Re-entry into Employment",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Retrenchment-and-Re-entry-into-Employment.aspx",
+      "PageName": "Extract-Retrenchment-and-Re-entry-into-Employment",
+      "ReleaseDate": "/Date(1552544820000)/",
+      "iMAS_Keyword": "Retrenchment, Re-entry into Employment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_key%20findings_3.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Re-entry Into Employment",
+        "Retrenchment",
+        "General Labour Market"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Conditions Of Employment 2018",
+      "Name": "https://stats.mom.gov.sg/Pages/Conditions-Of-Employment-2018.aspx",
+      "PageName": "Conditions-Of-Employment-2018",
+      "ReleaseDate": "/Date(1547600400000)/",
+      "iMAS_Keyword": "Employment Conditions, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Conditions Of Employment",
+      "Topic": [
+        "Employment Conditions"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_coe-2018.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_coe-2018.pdf",
+          "AttachmentSize": "2.56 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Statistics on Hours Worked",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Statistics-on-Hours-Worked.aspx",
+      "PageName": "Extract-Statistics-on-Hours-Worked",
+      "ReleaseDate": "/Date(1544672880000)/",
+      "iMAS_Keyword": "Extract, Statistics on Hours Worked, Hours Worked, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_statistics%20on%20hours%20worked.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Hours Worked",
+        "General Labour Market"
+      ],
+      "Year": "2018",
+      "Quaterly": "3Q",
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Retrenchment Benefits 2017",
+      "Name": "https://stats.mom.gov.sg/Pages/Retrenchment-Benefits-2017.aspx",
+      "PageName": "Retrenchment-Benefits-2017",
+      "ReleaseDate": "/Date(1537322400000)/",
+      "iMAS_Keyword": "Report: Retrenchment Benefits 2017; Redundancy; Retrenchment;report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Retrenchment Benefits",
+      "Topic": [
+        "Retrenchment",
+        "Unemployment",
+        "Re-entry Into Employment"
+      ],
+      "Year": "2017",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_Retrenchment_Benefits_2017.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_Retrenchment_Benefits_2017.pdf",
+          "AttachmentSize": "0.96 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: About Singapore's Unemployment Rate",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-About-Singapore-unemployment-rate.aspx",
+      "PageName": "Extract-About-Singapore-unemployment-rate",
+      "ReleaseDate": "/Date(1536821040000)/",
+      "iMAS_Keyword": "Singapore, unemployment rate, extract",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_sg%20unemployment%20rate.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment",
+        "General Labour Market"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Extract: Seasonally Adjusting Unemployment Time Series",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Seasonally-Adjusting-Unemployment-Time-Series.aspx",
+      "PageName": "Extract-Seasonally-Adjusting-Unemployment-Time-Series",
+      "ReleaseDate": "/Date(1528872900000)/",
+      "iMAS_Keyword": "Extract, Seasonally Adjusting, Unemployment, Time Series",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_revision%20to%20methodology%20for.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Report On Wage Practices 2017",
+      "Name": "https://stats.mom.gov.sg/Pages/Report-On-Wage-Practices-2017.aspx",
+      "PageName": "Report-On-Wage-Practices-2017",
+      "ReleaseDate": "/Date(1527645600000)/",
+      "iMAS_Keyword": "Wage Practices in Singapore 2017, Annual Wage Changes, Wage Flexibility, Wage change, infographic, wage flexibility, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower, real, nominal",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Report On Wage Practices",
+      "Topic": [
+        "Annual Wage Changes",
+        "Wage Flexibility"
+      ],
+      "Year": "2017",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-report-on-wage-practices-2017.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-report-on-wage-practices-2017.pdf",
+          "AttachmentSize": "1.82 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Own Account Workers 2017",
+      "Name": "https://stats.mom.gov.sg/Pages/Own-Account-Workers-2017.aspx",
+      "PageName": "Own-Account-Workers-2017",
+      "ReleaseDate": "/Date(1520215200000)/",
+      "iMAS_Keyword": "Own Account Workers 2017",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Own Account Workers",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_Own_Account_Workers_2017.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_Own_Account_Workers_2017.pdf",
+          "AttachmentSize": "1.05 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Entries and Exits in Employment",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Entries-and-Exits-in-Employment.aspx",
+      "PageName": "Extract-Entries-and-Exits-in-Employment",
+      "ReleaseDate": "/Date(1519890480000)/",
+      "iMAS_Keyword": "Extract, Entries, Exits, Employment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_exits%20entries%20employment.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Employment",
+        "General Labour Market"
+      ],
+      "Year": "2018",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_Technical_Note_on_Entries_and_Exits_in_Local_Employment.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_Technical_Note_on_Entries_and_Exits_in_Local_Employment.pdf",
+          "AttachmentSize": "0.32 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Extract: Measuring Unemployment",
+      "Name": "https://stats.mom.gov.sg/Pages/Extract-Measuring-Unemployment.aspx",
+      "PageName": "Extract-Measuring-Unemployment",
+      "ReleaseDate": "/Date(1513151820000)/",
+      "iMAS_Keyword": "Extract, Measuring, Unemployment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Extract_measuring%20unemployment.png",
+      "iMAS_ReportCategoryType": "Yearly",
+      "iMAS_ReportCoverImage": "",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Market Report",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2017",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    },
+    {
+      "Title": "Report: Retrenchment Benefits 2015",
+      "Name": "https://stats.mom.gov.sg/Pages/Retrenchment_Benefits_2015.aspx",
+      "PageName": "Retrenchment_Benefits_2015",
+      "ReleaseDate": "/Date(1482940800000)/",
+      "iMAS_Keyword": "Report: Retrenchment Benefits 2015; Redundancy; Retrenchment;report, data, Statistics, Singapore, Singapore Statistics, MRSD, Manpower Research and Statistics Department, Ministry of Manpower",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Retrenchment Benefits",
+      "Topic": [
+        "Retrenchment",
+        "Unemployment",
+        "Re-entry Into Employment"
+      ],
+      "Year": "2016",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_Retrenchment_Benefits_2015(291216).pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_Retrenchment_Benefits_2015(291216).pdf",
+          "AttachmentSize": "0.67 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employer Supported Training, 2014",
+      "Name": "https://stats.mom.gov.sg/Pages/Employer-Supported-Training-2014.aspx",
+      "PageName": "Employer-Supported-Training-2014",
+      "ReleaseDate": "/Date(1443974400000)/",
+      "iMAS_Keyword": "Training And Higher Education",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employer Supported Training",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2014",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Employer-Supported-Training-2014.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Employer-Supported-Training-2014.pdf",
+          "AttachmentSize": "1.00 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employer Supported Training, 2012",
+      "Name": "https://stats.mom.gov.sg/Pages/Employer-Supported-Training-2012.aspx",
+      "PageName": "Employer-Supported-Training-2012",
+      "ReleaseDate": "/Date(1381161600000)/",
+      "iMAS_Keyword": "Training And Higher Education",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/design%2003%20cover.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employer Supported Training",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2012",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Employer-Supported-Training-2012.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Employer-Supported-Training-2012.pdf",
+          "AttachmentSize": "0.95 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Retirement And Re-employment Practices, 2011",
+      "Name": "https://stats.mom.gov.sg/Pages/Retirement-and-Re-employment-Practices-2011.aspx",
+      "PageName": "Retirement-and-Re-employment-Practices-2011",
+      "ReleaseDate": "/Date(1342751400000)/",
+      "iMAS_Keyword": "Employment; Older Workers; ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Retirement And Re-employment Practices",
+      "Topic": [
+        "Employment",
+        "Older Workers"
+      ],
+      "Year": "2011",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-retirement-re-employ-2011.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-retirement-re-employ-2011.pdf",
+          "AttachmentSize": "0.64 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Singaporeans In The Workforce",
+      "Name": "https://stats.mom.gov.sg/Pages/Singaporeans-in-the-Workforce.aspx",
+      "PageName": "Singaporeans-in-the-Workforce",
+      "ReleaseDate": "/Date(1318262400000)/",
+      "iMAS_Keyword": "Singaporeans In The Workforce",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Singaporeans In The Workforce",
+      "Topic": [
+        "Employment",
+        "Unemployment",
+        "Labour Force",
+        "Gross Monthly Income From Employment",
+        "Discouraged Workers"
+      ],
+      "Year": "2011",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-singaporeans-in-the-workforce.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-singaporeans-in-the-workforce.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Retirement And Re-employment Practices, 2010",
+      "Name": "https://stats.mom.gov.sg/Pages/Retirement-and-Re-employment-Practices-2010.aspx",
+      "PageName": "Retirement-and-Re-employment-Practices-2010",
+      "ReleaseDate": "/Date(1311264000000)/",
+      "iMAS_Keyword": "Employment; Older Workers; ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Retirement And Re-employment Practices",
+      "Topic": [
+        "Employment",
+        "Older Workers"
+      ],
+      "Year": "2010",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-retirement-re-employ-2010.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-retirement-re-employ-2010.pdf",
+          "AttachmentSize": "0.65 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Labour Mobility",
+      "Name": "https://stats.mom.gov.sg/Pages/Labour-Mobility.aspx",
+      "PageName": "Labour-Mobility",
+      "ReleaseDate": "/Date(1275235200000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Labour Mobility",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2010",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Labour-Mobility.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Labour-Mobility.pdf",
+          "AttachmentSize": "0.26 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Focus On Older People In And Out Of Employment",
+      "Name": "https://stats.mom.gov.sg/Pages/Focus-on-Older-People-In-and-Out-of-Employment.aspx",
+      "PageName": "Focus-on-Older-People-In-and-Out-of-Employment",
+      "ReleaseDate": "/Date(1217260800000)/",
+      "iMAS_Keyword": "Older Workers, Employment, Unemployment, Labour Force, Training and Higher Education, Hours Worked, Labour Turnover, Gross Monthly Income From Work, General Labour Market, Economically Inactive,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Focus On Older People In And Out Of Employment",
+      "Topic": [
+        "Older Workers"
+      ],
+      "Year": "2008",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Focus-on-older-people-in-out-employ.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Focus-on-older-people-in-out-employ.pdf",
+          "AttachmentSize": "0.24 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employment Of Singapore Citizens, Permanent Residents And Foreigners, 1997-2006",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-of-Singapore-Citizens-Permanent-Residents-and-Foreigners.aspx",
+      "PageName": "Employment-of-Singapore-Citizens-Permanent-Residents-and-Foreigners",
+      "ReleaseDate": "/Date(1204214400000)/",
+      "iMAS_Keyword": "Employment",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employment Of Singapore Citizens, Permanent Residents And Foreigners",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2008",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Employment-SC-PR-Foreigners.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Employment-SC-PR-Foreigners.pdf",
+          "AttachmentSize": "0.13 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Quality Of Employment Creation For Singapore Citizens",
+      "Name": "https://stats.mom.gov.sg/Pages/Quality-Employment-Creation-for-Singapore-Citizens.aspx",
+      "PageName": "Quality-Employment-Creation-for-Singapore-Citizens",
+      "ReleaseDate": "/Date(1204214400000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Quality Of Employment Creation For Singapore Citizens",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2008",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Quality-of-Employment-Creation-for-SC.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Quality-of-Employment-Creation-for-SC.pdf",
+          "AttachmentSize": "0.11 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Educational Upgrading Of ITE Graduates",
+      "Name": "https://stats.mom.gov.sg/Pages/Educational-Upgrading-Institute-of-Technical-Education.aspx",
+      "PageName": "Educational-Upgrading-Institute-of-Technical-Education",
+      "ReleaseDate": "/Date(1204128000000)/",
+      "iMAS_Keyword": "Training And Higher Education, Graduate Starting Salary, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/Labour%20Market%20Report%20Cover-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/LMS-150-x-188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Educational Upgrading Of Institute Of Technical Education (ITE) Graduates",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2008",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-ITE-graduates.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-ITE-graduates.pdf",
+          "AttachmentSize": "0.06 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Firms Adoption Of Age Positive Human Resource Practices",
+      "Name": "https://stats.mom.gov.sg/Pages/Firms-Adoption-of-Age-Positive-Human-Resource-Practices.aspx",
+      "PageName": "Firms-Adoption-of-Age-Positive-Human-Resource-Practices",
+      "ReleaseDate": "/Date(1180022400000)/",
+      "iMAS_Keyword": "Older Workers, Labour Force, Employment, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Firms’ Adoption Of Age-Positive Human Resource Practices",
+      "Topic": [
+        "Older Workers"
+      ],
+      "Year": "2007",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd_AgePositiveHRPractices.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd_AgePositiveHRPractices.pdf",
+          "AttachmentSize": "0.30 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: A Statistical Profile Of Older Workers",
+      "Name": "https://stats.mom.gov.sg/Pages/Statistical-Profile-Older-Workers.aspx",
+      "PageName": "Statistical-Profile-Older-Workers",
+      "ReleaseDate": "/Date(1172073600000)/",
+      "iMAS_Keyword": "Employment, Labour Force, Hours Worked, General Labour Market, Older Workers, Training And higher Education, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "A Statistical Profile Of Older Workers",
+      "Topic": [
+        "Older Workers"
+      ],
+      "Year": "2007",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Stat-profile-older-workers.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Stat-profile-older-workers.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Findings Of Cohort Study On Polytechnic Graduates Acquiring University Level Education",
+      "Name": "https://stats.mom.gov.sg/Pages/Findings-Cohort-Study.aspx",
+      "PageName": "Findings-Cohort-Study",
+      "ReleaseDate": "/Date(1171555200000)/",
+      "iMAS_Keyword": "Training And Higher Education,Graduate Starting Salary,",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Findings Of Cohort Study On Polytechnic Graduates Acquiring University Level Education",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2007",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-findings-cohort-study.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-findings-cohort-study.pdf",
+          "AttachmentSize": "0.21 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Premium On Fields Of Study: The Returns To Higher Education In Singapore ",
+      "Name": "https://stats.mom.gov.sg/Pages/Premium-Fields-Study.aspx",
+      "PageName": "Premium-Fields-Study",
+      "ReleaseDate": "/Date(1169136000000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Premium On Fields Of Study: The Returns To Higher Education In Singapore",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2007",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Premium-on-FOS.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Premium-on-FOS.pdf",
+          "AttachmentSize": "0.34 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: The Impact Of Structured Training On Workers’ Employability And Productivity",
+      "Name": "https://stats.mom.gov.sg/Pages/Impact-Structured-Training.aspx",
+      "PageName": "Impact-Structured-Training",
+      "ReleaseDate": "/Date(1167148800000)/",
+      "iMAS_Keyword": "Labour Productivity; Training And Higher Education; General Labour Market",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "The Impact Of Structured Training On Workers’ Employability And Productivity",
+      "Topic": [
+        "Labour Productivity",
+        "Training and Higher Education"
+      ],
+      "Year": "2006",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-The-Impact-of-Structured-Training.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-The-Impact-of-Structured-Training.pdf",
+          "AttachmentSize": "0.31 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employment Rate In Singapore",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-Rate-Singapore.aspx",
+      "PageName": "Employment-Rate-Singapore",
+      "ReleaseDate": "/Date(1159977600000)/",
+      "iMAS_Keyword": "Employment, Labour Force, Older Workers, ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employment Rate In Singapore",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2006",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-employment-rate-in-singapore.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-employment-rate-in-singapore.pdf",
+          "AttachmentSize": "0.18 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Recent Trends In Employment Creation",
+      "Name": "https://stats.mom.gov.sg/Pages/Recent-Trends-Employment-Creation-2005.aspx",
+      "PageName": "Recent-Trends-Employment-Creation-2005",
+      "ReleaseDate": "/Date(1129737600000)/",
+      "iMAS_Keyword": "",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Recent Trends In Employment Creation",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2005",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-emp-creation.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-emp-creation.pdf",
+          "AttachmentSize": "0.19 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Revision To Unemployment Data",
+      "Name": "https://stats.mom.gov.sg/Pages/Revision-To-Unemployment-Data.aspx",
+      "PageName": "Revision-To-Unemployment-Data",
+      "ReleaseDate": "/Date(1123430400000)/",
+      "iMAS_Keyword": "Unemployment; ",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Revision To Unemployment Data",
+      "Topic": [
+        "Unemployment"
+      ],
+      "Year": "2005",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "MRSD-OP-Revisiontounemploymentdata.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/MRSD-OP-Revisiontounemploymentdata.pdf",
+          "AttachmentSize": "0.05 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Employment Trend And Structure",
+      "Name": "https://stats.mom.gov.sg/Pages/Employment-Trend-Structure.aspx",
+      "PageName": "Employment-Trend-Structure",
+      "ReleaseDate": "/Date(1085932800000)/",
+      "iMAS_Keyword": "Employment, Older Workers, Unemployment, Job Vacancy",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Employment Trend And Structure",
+      "Topic": [
+        "Employment"
+      ],
+      "Year": "2004",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": [
+        {
+          "AttachmentName": "mrsd-Employment-Trend-Structure.pdf",
+          "AttachmentURL": "/iMAS_PdfLibrary/mrsd-Employment-Trend-Structure.pdf",
+          "AttachmentSize": "0.08 MB",
+          "FileExtension": "pdf"
+        }
+      ]
+    },
+    {
+      "Title": "Report: Education For Growth: The Premium On Education And Work Experience In Singapore (Jointly Published With MAS)",
+      "Name": "https://stats.mom.gov.sg/Pages/Education-for-Growth.aspx",
+      "PageName": "Education-for-Growth",
+      "ReleaseDate": "/Date(1074268800000)/",
+      "iMAS_Keyword": "Training And Higher Education,Gross Monthly Income From Work",
+      "iMAS_Image_Url": "/PublishingImages/Tiles%20Image%20(156%20x%2090%20pixel)/Reports/p-report-156x90.jpg",
+      "iMAS_ReportCategoryType": "Ad-Hoc",
+      "iMAS_ReportCoverImage": "/PublishingImages/Report%20Cover%20Image%20(150%20x%20188%20pixel)/p-report-150x188.jpg",
+      "iMAS_ReportType": "Overall",
+      "iMAS_ReportMaster": "Education For Growth: The Premium On Education And Work Experience In Singapore (Jointly Published With MAS)",
+      "Topic": [
+        "Training and Higher Education"
+      ],
+      "Year": "2004",
+      "Quaterly": null,
+      "DocumentType": "Reports",
+      "Month": null,
+      "AttachmentColl": null
+    }
+  ]
+}
